@@ -3,24 +3,24 @@ html {
 }
 
 .byline {
-  /*border-bottom: 1px solid LightGrey;*/
-  /*border-top: 1px solid LightGrey;*/
+  border-bottom: 1px solid LightGrey;
+  border-top: 1px solid LightGrey;
   color: DarkGrey;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 200;
   text-align: center;
 }
 
 #banner {
   background-image: url("./logo-2015large.png");
-  height: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 175px;
 }
 
 #banner .content h1 {
-  position: center;
-  top: 50px;
-  margin: 0 0 0 50;
-  font-size: 36px;
   text-align: center;
+  padding-top: 125px;
+  font-size: 36px;
   color: rgb(0, 102, 153);
 }
