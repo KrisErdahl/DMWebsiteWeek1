@@ -1,0 +1,26 @@
+html {
+  font-family: Verdana, sans-serif;
+}
+
+.byline {
+  /*border-bottom: 1px solid LightGrey;*/
+  /*border-top: 1px solid LightGrey;*/
+  color: DarkGrey;
+  font-size: 14px;
+  font-weight: 200;
+  text-align: center;
+}
+
+#banner {
+  background-image: url("./logo-2015large.png");
+  height: 150px;
+}
+
+#banner .content h1 {
+  position: center;
+  top: 50px;
+  margin: 0 0 0 50;
+  font-size: 36px;
+  text-align: center;
+  color: rgb(0, 102, 153);
+}
