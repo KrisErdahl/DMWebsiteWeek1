@@ -9,10 +9,9 @@ html {
   color: DarkGrey;
   font-size: 18px;
   font-weight: 200;
-  display: inline-block;
-  text-align: center;
   width: 540px;
-  margin-left: 435px;
+  /*margin-left: 430px;*/
+  margin: 0 auto;
 }
 
 #banner {
